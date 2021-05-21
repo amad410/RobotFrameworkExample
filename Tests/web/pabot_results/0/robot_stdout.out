@@ -1,0 +1,7 @@
+==============================================================================
+Sample-Web-Test :: An example web UI test case.                               
+==============================================================================
+Should contain 'Invoice Manager'                                      | FAIL |
+Page should have contained text 'Invoice Manager' but did not.
+------------------------------------------------------------------------------
+Should contain 'Cards'                                                

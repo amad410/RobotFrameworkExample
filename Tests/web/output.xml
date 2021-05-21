@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Rebot 4.0.1 (Python 3.9.4 on win32)" generated="20210521 15:27:03.951" rpa="false" schemaversion="2">
+<suite id="s1">
+<status status="SKIP" starttime="N/A" endtime="N/A" elapsedtime="0"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="0" skip="0" id="s1"/>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
